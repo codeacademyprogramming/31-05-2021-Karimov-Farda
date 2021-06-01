@@ -1,0 +1,208 @@
+/*
+.box{
+    width:300px;
+    height:300px;
+    background-color: red;
+    transition: all 1.5s linear 0.3s;
+    margin-bottom:5%;
+}
+
+
+.box:hover{
+    background-color: green;
+    color:red;
+}
+.animated{
+    height:200px;
+    width:200px;
+    background-color:red;
+    animation:resize 1s ease-in 0.1s 10 alternate-reverse forwards;
+}
+
+@keyframes resize{
+    0% {background-color: red;}
+    50% {background-color: green;}
+
+    100% {background-color:  red}
+    
+}
+
+*/
+/*
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+.navigation{
+    width:100%;
+    height:500px;
+    
+    background-image: url("Rectangle\ 9.png");
+   
+    background-size: cover;
+
+
+}
+
+
+
+
+nav{
+    display: flex;
+    margin-bottom:50px;
+    
+}
+.navbar-nav{
+    flex-grow:9;
+    margin-left:10%;
+ 
+
+}
+.nav-item{
+    padding-left:1rem;
+    margin-top:20px;
+}
+.nav-item:last-child{
+    margin-top:12px;
+}
+.nav-link{
+    color:white;
+    font-size:1rem;
+    
+}
+.icons{
+    flex-grow:3;
+    margin-top:25px;
+    
+}
+.icons li{
+    text-decoration: none;
+    display: inline;
+    float:left;
+    font-size:25px;
+    color:white;
+    padding-left:1rem;
+}
+
+.information{
+    margin-top:3rem;
+    width:40%;
+    margin:4rem auto auto auto;
+}
+
+    
+.texts{
+    position:absolute;
+    display: block;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    color:white;
+  
+}
+.texts h1{
+    font-size:65px;
+    text-align: center;
+}
+.texts h3{
+    font-size:1.3rem;
+    text-align: center;
+}
+.texts p{
+    font-size:1.3rem;
+    text-align: center;
+    display: block;
+    color:white;
+    margin-top:2rem;
+ 
+
+}
+
+
+
+.texts p > a{
+    color:white;
+    text-decoration: none;
+    padding:10px 2.2rem;
+    background-color: blue;
+    font-size:1rem;
+    border-radius:15px;
+
+}
+
+
+
+.features{
+    
+    height:300px;
+
+    float:left;
+    margin:2.5rem 1.5rem;
+    margin-top:3rem
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.features img{
+    margin:0 auto;
+    display: block;
+    padding:20px 0;
+}
+.features h6{
+    text-align: center;
+}
+.features p{
+    text-align: center;
+    padding-top:0.5rem;
+}
+
+
+.information h1,h3{
+    text-align:center
+}
+#image{
+  
+    display: flex;
+    justify-content: center;
+}
+#image{
+    position: relative;
+}
+#image #screen{
+    width:70%;
+    
+    z-index:0
+}
+#image #ellipse{
+    width:7rem;
+    height:7rem;
+    top:50%;
+    left:47%;
+    position: absolute;
+    z-index:5;
+    transform:translate(-50%,-50%)
+}
+#image #vector{
+    width:3rem;
+    height:3rem;
+    top:50%;
+    left:47%;
+    position: absolute;
+    z-index:10;
+    transform:translate(-45%,-50%)
+}
+
+
+*/
+
+/*
+https://github.com/codeacademyprogramming/04-05-2021-FardaKarimovCode/pull/1
+https://github.com/codeacademyprogramming/04-05-2021-zumrud7/pull/1/commits/2f860c512570c66e7afc55d98e5e8bfd2e9d193c
+https://github.com/codeacademyprogramming/04-05-2021-zumrud7/pull/1/commits/2f860c512570c66e7afc55d98e5e8bfd2e9d193c
+*/
+
+
